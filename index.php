@@ -9,6 +9,7 @@ try{
        
         
      if($url[0] === "voiture") {
+        echo("okok");
              getData();  
             
             }
